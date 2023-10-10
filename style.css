@@ -4,8 +4,33 @@ padding:0;
 }
 
 body {
-    color: pink;
+    color: #A87F39;
+    font-family: 'Qwitcher Grypen';
+    text-align: center;
 }
+h2 {
+    font-size: 51px;
+}
+
+ h3 {
+    font-size: 102px;
+}
+
+h4 {
+    font-size: 48px;
+}
+h5 {
+    font-size: 33px;
+}
+
+h6 {
+    font-size: 33px;
+}
+
+h8 {
+    font-size: 33px;
+}
+
 #jordan {
     background-color: red;
     width: 200px;
@@ -16,3 +41,26 @@ body {
     text-align: center;
 
 }
+
+.sample-set {
+    font-size: 63px;
+    font-weight: 700;
+    letter-spacing: 20px;
+    width: 611px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+
+.sample-set::-webkit-scrollbar {
+    width: 7.5px;
+    height: 7.5px;
+}
+
+.sample-set::-webkit-scrollbar-track {
+    background-color: #671F1F;
+}
+
+.sample-set::-webkit-scrollbar-thumb {
+    background-color: #A87F39;
+}
+
