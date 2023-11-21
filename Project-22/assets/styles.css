@@ -19,7 +19,15 @@ section {
 #first-section {
     background-color: red;
     font-family : var(--serif);
+    /* img src: display: height: 50px width: 50px; */
+    img {
+        img src:  
+        height: 50vh; 
+        width: 50vh;
+    }
 }
+
+
 
  #second-section {
      background-color: blue;
