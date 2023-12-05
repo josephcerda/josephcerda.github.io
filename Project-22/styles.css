@@ -79,6 +79,20 @@ body {
     width: 304px;
 }
 
+#hech {
+    position: relative;
+    left: 0;
+    height: 500;
+    width: 705;
+}
+
+#deecrying-01 {
+    position: relative;
+    left: 0;
+    height: 800;
+    width: 900;
+}
+
 /* .chunk {
     background-color: white;
 } */
@@ -104,3 +118,4 @@ nav ul {
     display: contents;
 
 }
+
